@@ -1,3 +1,5 @@
+#pip install ultralytics requests opencv-python numpy matplotlib
+
 # Install required libraries (if not installed)
 # pip install ultralytics requests opencv-python numpy matplotlib
 
