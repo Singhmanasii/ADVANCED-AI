@@ -1,3 +1,9 @@
+#pip install numpy matplotlib
+#pip install tensorflow  # For TensorFlow
+# OR
+#pip install torch torchvision torchaudio  # For PyTorch
+
+
 import numpy as np
 import random
 
