@@ -1,3 +1,5 @@
+#pip install optuna numpy scikit-learn
+
 import optuna
 import numpy as np
 from sklearn.datasets import load_iris
