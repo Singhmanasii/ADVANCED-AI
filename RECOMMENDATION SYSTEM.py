@@ -1,3 +1,6 @@
+#pip install tensorflow
+
+
 import numpy as np
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input, Embedding, Flatten, Dense, Concatenate
